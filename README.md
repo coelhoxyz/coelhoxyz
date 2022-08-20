@@ -1,5 +1,7 @@
 # 🌎 Hello World!
 
+[📚 See what I'm studying](https://xonfps.notion.site/Academy-dd1e81963f354779bd0c815f5b85efc9)
+
 ## 🏁 My Achievements
 
 ```

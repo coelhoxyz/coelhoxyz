@@ -1,32 +1,9 @@
-# 🌎 Hello World!
+I am a highly motivated and driven individual with a passion for technology and personal growth. After leaving Bahia in 2021 to broaden my horizons and experience new cultures, I have had the opportunity to grow both personally and professionally. During my time in Paraná, I co-founded Moon Brasil, a company that specializes in the sale of imported products, and currently oversee a team of some employees.
 
-[📚 See what I'm studying](https://xonfps.notion.site/Academy-dd1e81963f354779bd0c815f5b85efc9)
+My professional growth has also been reflected in my expertise as a web3 and blockchain specialist, with almost a year of experience in the industry. I have developed a deep understanding of API integrations, documentation, and the blockchain ecosystem, as well as a proficiency in Python, which has allowed me to excel in test-driven development (TDD) using Pytest and ensure that all code is thoroughly tested and of the highest quality. I have also utilized the Rust programming language in my work in the blockchain field.
 
-## 🏁 My Achievements
+Not only do I bring technical expertise to the table, but my experience in GitLab activity management, including the use of Issues, auto-MR, Code Review, and Milestones, and the automation of development processes through Docker and CI/CD integration, adds to my overall versatility and problem-solving ability. I am constantly seeking new opportunities to expand my skillset and knowledge, and I have developed a keen interest in the blockchain industry.
 
-```
-I left Bahia in 2021 to discover new cultures in Paraná!
-Where I learned a lot, and discovered what real cold is 🤣🤣.
+Outside of work, I am an avid gamer with a passion for Valorant and a coffee lover. I also enjoy keeping fit through bodybuilding, which provides a healthy balance to my life and allows me to approach my professional pursuits with energy and determination.
 
-I co-founded Moon Brasil, a company focused on selling imported products, today I coordinate more than 10 employees indirectly.
-
-I am open to new opportunities in the Blockchain world!
-```
-
-## ✅ My Experiences
-
-```
-- GitLab activity management using Issue, auto-MR, Code Review and Milestones.
-- Development environment standardization with Docker/Compose.
-- Open source documentation with Docusaurus.
-- Automation using CI/CD also in Gitlab.
-- Testing using TDD with Pytest/Python.
-```
-
-## 🪴 Lifestyle
-
-```
-🔫 I love playing video games, mainly Valorant.
-☕ Coffee lover.
-💪 And bodybuilding lover.
-```
+In conclusion, I am a well-rounded and driven individual who is always seeking new challenges and opportunities for personal and professional growth. My experience, expertise, and passion for technology make me an asset to any company or project, and I am eager to bring my unique skills and perspective to the table.

@@ -1,9 +1,12 @@
-I am a highly motivated and driven individual with a passion for technology and personal growth 💻🚀. After leaving Bahia in 2021 to broaden my horizons and experience new cultures, I have had the opportunity to grow both personally and professionally 🌎. During my time in Paraná, I co-founded Moon Brasil, a company that specializes in the sale of imported products, and currently oversee a team of some employees 💼.
+Data Engineer | Transitioning from Web3 to Data-Driven Solutions
 
-My professional growth has also been reflected in my expertise as a web3 and blockchain specialist 💰, with almost a year of experience in the industry. I have developed a deep understanding of API integrations, documentation, and the blockchain ecosystem, as well as a proficiency in Python 🐍, which has allowed me to excel in test-driven development (TDD) using Pytest and ensure that all code is thoroughly tested and of the highest quality 💻💻. I have also utilized the Rust programming language in my work in the blockchain field.
+- Pivoted from web3 development to a data-centric role, showcasing adaptability and eagerness to embrace new technologies.
+- Currently enhancing skills in Python for advanced data collection and analysis, employing tools like requests and Beautiful Soup.
+- Proficient in utilizing pandas for insightful data analysis, contributing to informed strategic decisions in market intelligence.
+- Skilled in SQL for efficient data management, ensuring accuracy and reliability in data-centric applications.
+- Focused on leveraging data engineering expertise to drive innovation and growth in data-intensive environments.
 
-Not only do I bring technical expertise to the table 💻, but my experience in GitLab activity management, including the use of Issues, auto-MR, Code Review, and Milestones 📊, and the automation of development processes through Docker and CI/CD integration, adds to my overall versatility and problem-solving ability 🤖. I am constantly seeking new opportunities to expand my skillset and knowledge, and I have developed a keen interest in the blockchain industry 💡.
+Attributes:
 
-Outside of work, I enjoy keeping fit through bodybuilding 💪, which provides a healthy balance to my life and allows me to approach my professional pursuits with energy and determination.
-
-In conclusion, I am a well-rounded and driven individual who is always seeking new challenges and opportunities for personal and professional growth 💪💡. My experience, expertise, and passion for technology make me an asset to any company or project 💻, and I am eager to bring my unique skills and perspective to the table 🤝.
+- Quick learner, adaptable to dynamic tech landscapes.
+- Passionate about contributing to team efforts and data-driven projects.
